@@ -1,6 +1,7 @@
 Excited to share: ATM Transactions Data Analysis Using Power_BI
 
 Data Collection
+
 Data was collected from various sources including ATM transaction logs, maintenance records, and financial reports. The data was cleaned and prepared for analysis using data preprocessing techniques.
 Visualization
 •	Power BI: The primary tool used for creating this dashboard is Power BI.
