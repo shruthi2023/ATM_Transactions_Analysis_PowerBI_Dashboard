@@ -3,14 +3,24 @@ Excited to share: ATM Transactions Data Analysis Using Power_BI
 Data Collection
 
 Data was collected from various sources including ATM transaction logs, maintenance records, and financial reports. The data was cleaned and prepared for analysis using data preprocessing techniques.
+
 Visualization
+
 •	Power BI: The primary tool used for creating this dashboard is Power BI.
+
 •	Charts Used:
+
 o	Pie Charts: For visualizing the cost breakdown in the Cost Analysis section.
+
 o	Bar Charts: For comparing revenue across regions and transaction types by month.
+
 o	Line Chart: For showing the trend in transactions over time.
+
 o	Detailed Tables: For detailed analysis of revenue performance by state and transaction ranges.
+
+
 Insights Derived
+
 1.	Cost Efficiency: By breaking down the costs into specific categories, stakeholders can identify areas where cost-saving measures can be implemented.
 2.	Revenue Streams: Understanding the revenue contributions from different regions helps in strategizing regional focus and improving profitability.
 3.	Transaction Trends: Monitoring the trends in financial and non-financial transactions can help in predicting future transaction volumes and preparing accordingly.
